@@ -3,7 +3,7 @@
 
 * 🧠  I'm learning AI/ML
 * 🤝  I'm open to collaborating on Projects
-* 🌱  My interests lie in fields of Coding,AI and Cosmos
+* 🌱  My interests lie in fields of Coding, AI and Cosmos
 * ✉️  You can contact me at [keshavyas004@gmail.com](mailto:keshavyas004@gmail.com)
 
 ### Skills
